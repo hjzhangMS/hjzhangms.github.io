@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huijun Zhang"
   avatar           : "profile.png"
-  bio              : "<font face="逐浪新宋" size=3>Xi'an Jiaotong University</font> \ <font color=black>huijun@xjtu.edu.cn</font>"
+  bio              : "<font face="逐浪新宋" color=black size=3>Xi'an Jiaotong University</font> \ <font color=black>huijun@xjtu.edu.cn</font>"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
