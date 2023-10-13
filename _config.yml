@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Huijun Zhang"
   avatar           : "profile.png"
-  bio              : "<font size=3>Xi'an Jiaotong University</font> \ <font color=black>huijun@xjtu.edu.cn</font>"
+  bio              : "<font face="逐浪新宋" size=3>Xi'an Jiaotong University</font> \ <font color=black>huijun@xjtu.edu.cn</font>"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tN7WA98AAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "huijun@xjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
